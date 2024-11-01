@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\PetShop\PetShop\obj\Debug\net8.0\PetShopDataTransferObjects.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\PetShop\PetShop\obj\Debug\net8.0\PetShopDataTransferObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\PetShop\PetShop\obj\Debug\net8.0\PetShopDataTransferObjects.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\PetShop\PetShop\obj\Debug\net8.0\PetShopDataTransferObjects.AssemblyInfo.cs
+C:\Users\hp\source\repos\PetShop\PetShop\obj\Debug\net8.0\PetShopDataTransferObjects.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\PetShop\PetShop\obj\Debug\net8.0\PetShopDataTransferObjects.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hp\source\repos\PetShop\PetShop\obj\Debug\net8.0\PetShopDataTransferObjects.MvcApplicationPartsAssemblyInfo.cache
